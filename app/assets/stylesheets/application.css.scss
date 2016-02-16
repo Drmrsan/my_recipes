@@ -44,6 +44,9 @@ body{
 	margin-left: 25px;
 	float:left;
 	margin-top:20px;
+	a {
+		margin-left: 20px;
+	}
 }
 
 h1,h2,h3,h4 {
@@ -64,11 +67,15 @@ h2 {
 	color: #777;
 }
 
+.jumbotron{
+	margin-top: 50px;
+}
+
 .footer{
 	margin-top: 25px;
 	border-top: 1px solid #eaeaea;
 	color: #777;
-	
+
 }
 
 
